@@ -1,0 +1,43 @@
+h1{
+
+    color: deeppink;
+
+}
+
+.header{
+
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.middle{
+
+    color: white;
+
+}
+
+.grid{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.item1{
+
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.item2{
+
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: flex-start; 
+
+}
